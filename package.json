@@ -1,0 +1,26 @@
+{
+  "name": "random-str-msg-rb",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robejia/random-str-msg-rb.git"
+  },
+  "author": "Roberto Mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robejia/random-str-msg-rb/issues"
+  },
+  "homepage": "https://github.com/Robejia/random-str-msg-rb#readme",
+  "bin": {
+    "random-str-msg-rb": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
